@@ -1,0 +1,536 @@
+/* ---Extra small responsive start----- */
+
+@media (min-width:320px) and (max-width:575px) {
+    .logo{
+        margin-top: -50px;
+        width: 70px;
+    }
+    .navbar-toggler{
+        margin-top: -45px;
+    }
+    .bannertitle h2 {
+        margin-top: -100px;
+        font-size: 39px;
+        line-height: 48px;
+        width: auto;
+    }
+    .bannertitle p {
+        margin-top: -80px;
+        font-size: 16px;
+        width: auto;
+    }
+    .banner{
+        width: 100%;
+        margin-top: 70px;
+    }
+    .navbtn{
+        margin-left: 48px;
+    }
+    .navbar-nav{
+        background-color: aqua;
+        border-radius: 10px;
+    }
+    .title h2 {
+        font-size: 32px;
+    }
+    .title p {
+        line-height: 25px;
+        width: auto;
+    }
+    .servicebox1 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox2 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox3 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox4 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox5 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox6 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .title h2 {
+        font-size: 27px;
+        margin-top: -40px;
+    }
+    .title p {
+        line-height: 23px;
+    }
+    .portfoliopic1{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic2{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic3{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic4{
+        width: 100%;
+        padding-bottom: 5px;
+    }
+    .portfoliopic5{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic6{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .title h2 {
+        font-size: 27px;
+        margin-top: -70px;
+    }
+    .Team_Member{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .experience_title h2 {
+        font-size: 35px;
+        margin-top: 45px;
+        width: auto;
+    }
+    .experience_title p {
+        font-size: 17px;
+        line-height: 27px;
+        width: auto;
+        margin-top: 25px;
+    }
+    .experiencebox {
+        width: 100%;
+        padding: 7px;
+    }
+    .newspic1{
+        width: 100%;
+    }
+    .newsbox1 h3 {
+        font-size: 20px;
+        width: auto;
+    }
+    .newsbox1 p {
+        width: auto;
+    }
+    #futter .logo {
+        margin-top: 45px;
+    }
+    #futter h3 {
+        margin-top: 35px;
+    }
+}
+/* ---Extra small responsive end----- */
+/* --- small responsive start----- */
+@media (min-width:576px) and (max-width:768px) {
+    .logo{
+        margin-top: -50px;
+        width: 70px;
+    }
+    .navbar-toggler{
+        margin-top: -45px;
+    }
+    .bannertitle h2 {
+        margin-top: -100px;
+        font-size: 48px;
+        line-height: 60px;
+        width: auto;
+    }
+    .bannertitle p {
+        margin-top: -80px;
+        font-size: 20px;
+        width: auto;
+    }
+    .banner{
+        width: 100%;
+        margin-top: 70px;
+    }
+    .navbtn{
+        margin-left: 48px;
+    }
+    .navbar-nav{
+        background-color: aqua;
+        border-radius: 10px;
+    }
+    .title h2 {
+        font-size: 32px;
+    }
+    .title p {
+        line-height: 25px;
+        width: auto;
+    }
+    .servicebox1 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox2 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox3 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox4 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox5 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox6 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .title h2 {
+        font-size: 27px;
+        margin-top: -40px;
+    }
+    .title p {
+        line-height: 23px;
+    }
+    .portfoliopic1{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic2{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic3{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic4{
+        width: 100%;
+        padding-bottom: 5px;
+    }
+    .portfoliopic5{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic6{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .title h2 {
+        font-size: 27px;
+        margin-top: -70px;
+    }
+    .Team_Member{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .experience_title h2 {
+        font-size: 35px;
+        margin-top: 45px;
+        width: auto;
+    }
+    .experience_title p {
+        font-size: 17px;
+        line-height: 27px;
+        width: auto;
+        margin-top: 25px;
+    }
+    .experiencebox {
+        width: 100%;
+        padding: 7px;
+    }
+    .newspic1{
+        width: 100%;
+    }
+    .newsbox1 h3 {
+        font-size: 20px;
+        width: auto;
+    }
+    .newsbox1 p {
+        width: auto;
+    }
+    #futter .logo {
+        margin-top: 45px;
+    }
+    #futter h3 {
+        margin-top: 35px;
+    }
+}
+/* --- small responsive end----- */
+/* --- medium responsive start----- */
+@media (min-width:769px) and (max-width:991px) {
+    .logo{
+        margin-top: -50px;
+        width: 70px;
+    }
+    .navbar-toggler{
+        margin-top: -45px;
+    }
+    .bannertitle h2 {
+        margin-top: -100px;
+        font-size: 48px;
+        line-height: 60px;
+        width: auto;
+    }
+    .bannertitle p {
+        margin-top: -80px;
+        font-size: 20px;
+        width: auto;
+    }
+    .banner{
+        width: 100%;
+        margin-top: 70px;
+    }
+    .navbtn{
+        margin-left: 48px;
+    }
+    .navbar-nav{
+        background-color: aqua;
+        border-radius: 10px;
+    }
+    .title h2 {
+        font-size: 32px;
+    }
+    .title p {
+        line-height: 25px;
+        width: auto;
+    }
+    .servicebox1 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox2 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox3 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox4 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox5 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox6 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .title h2 {
+        font-size: 27px;
+        margin-top: -40px;
+    }
+    .title p {
+        line-height: 23px;
+    }
+    .portfoliopic1{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic2{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic3{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic4{
+        width: 100%;
+        padding-bottom: 5px;
+    }
+    .portfoliopic5{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic6{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .title h2 {
+        font-size: 27px;
+        margin-top: -70px;
+    }
+    .Team_Member{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .experience_title h2 {
+        font-size: 35px;
+        margin-top: 45px;
+        width: auto;
+    }
+    .experience_title p {
+        font-size: 17px;
+        line-height: 27px;
+        width: auto;
+        margin-top: 25px;
+    }
+    .experiencebox {
+        width: 100%;
+        padding: 7px;
+    }
+    .newspic1{
+        width: 100%;
+    }
+    .newsbox1 h3 {
+        font-size: 20px;
+        width: auto;
+    }
+    .newsbox1 p {
+        width: auto;
+    }
+    #futter .logo {
+        margin-top: 45px;
+    }
+    #futter h3 {
+        margin-top: 35px;
+    }
+}
+/* --- medium responsive end----- */
+/* --- large responsive start----- */
+@media (min-width:992px) and (max-width:1200px) {
+    .logo{
+        margin-top: -50px;
+        width: 70px;
+    }
+    .navbar-toggler{
+        margin-top: -45px;
+    }
+    .bannertitle h2 {
+        margin-top: -100px;
+        font-size: 48px;
+        line-height: 60px;
+        width: auto;
+    }
+    .bannertitle p {
+        margin-top: -80px;
+        font-size: 20px;
+        width: auto;
+    }
+    .banner{
+        width: 100%;
+        margin-top: 70px;
+    }
+    .navbtn{
+        margin-left: 48px;
+    }
+    .navbar-nav{
+        border-radius: 10px;
+    }
+    .title h2 {
+        font-size: 32px;
+    }
+    .title p {
+        line-height: 25px;
+        width: auto;
+    }
+    .servicebox1 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox2 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox3 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox4 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox5 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .servicebox6 {
+        padding: 34px 30px;
+        margin-top: 50px;
+    }
+    .title h2 {
+        font-size: 27px;
+        margin-top: -40px;
+    }
+    .title p {
+        line-height: 23px;
+    }
+    .portfoliopic1{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic2{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic3{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic4{
+        width: 100%;
+        padding-bottom: 5px;
+    }
+    .portfoliopic5{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .portfoliopic6{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .title h2 {
+        font-size: 27px;
+        margin-top: -70px;
+    }
+    .Team_Member{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .experience_title h2 {
+        font-size: 35px;
+        margin-top: 45px;
+        width: auto;
+    }
+    .experience_title p {
+        font-size: 17px;
+        line-height: 27px;
+        width: auto;
+        margin-top: 25px;
+    }
+    .experiencebox {
+        width: 100%;
+        padding: 7px;
+    }
+    .newspic1{
+        width: 100%;
+    }
+    .newsbox1 h3 {
+        font-size: 20px;
+        width: auto;
+    }
+    .newsbox1 p {
+        width: auto;
+    }
+    #futter .logo {
+        margin-top: 45px;
+    }
+    #futter h3 {
+        margin-top: 35px;
+    }
+}
+/* --- large responsive end----- */
